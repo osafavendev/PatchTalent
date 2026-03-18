@@ -1813,7 +1813,7 @@ VITE_API_BASE_URL=http://127.0.0.1:8000/api/
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/osafavendev/PatchTalent.git
 cd patchtalent
 
 # Create virtual environment
